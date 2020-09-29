@@ -1,0 +1,5 @@
+**/.venv
+**/.python-version
+**/*.sqlite3
+**/poetry.lock
+**/__pycache__
