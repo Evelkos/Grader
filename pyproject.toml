@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "Grader"
+version = "0.1.0"
+description = ""
+authors = ["Evelkos <ewelkos.chmielewska@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+django = "^2.2"
+toml = "^0.10.0"
+isort = "^5.5"
