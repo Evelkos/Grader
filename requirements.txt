@@ -1,0 +1,5 @@
+Django==2.2.16
+isort==5.5.3
+pytz==2020.1
+sqlparse==0.3.1
+toml==0.10.1
